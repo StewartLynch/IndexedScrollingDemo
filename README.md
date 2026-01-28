@@ -1,6 +1,6 @@
 # Indexed Scrolling
 
-![AppIcon128](Images/AppIcon128.png) This is the **starter project** for the video on creating an indexed scroll view in Swift
+![AppIcon128](Images/AppIcon128.png) This is the **completed source code** for the video on creating an indexed scroll view in Swift
 
 Release Date: Mar 22, 2026
 
