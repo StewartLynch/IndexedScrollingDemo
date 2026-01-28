@@ -1,0 +1,35 @@
+{
+  "fill" : {
+    "automatic-gradient" : "display-p3:0.44543,0.78323,0.99866,1.00000"
+  },
+  "groups" : [
+    {
+      "layers" : [
+        {
+          "image-name" : "PNG image-7E5D2E39CD97-1.png",
+          "name" : "PNG image-7E5D2E39CD97-1",
+          "position" : {
+            "scale" : 2.33,
+            "translation-in-points" : [
+              26.62890625,
+              -45.434999999999945
+            ]
+          }
+        }
+      ],
+      "shadow" : {
+        "kind" : "neutral",
+        "opacity" : 0.5
+      },
+      "translucency" : {
+        "enabled" : false,
+        "value" : 0.5
+      }
+    }
+  ],
+  "supported-platforms" : {
+    "squares" : [
+      "iOS"
+    ]
+  }
+}
