@@ -2,7 +2,7 @@
 
 ![AppIcon128](Images/AppIcon128.png) This is the **starter project** for the video on creating an indexed scroll view in Swift
 
-Release Date: Mar 22, 2026
+
 
 If you want to support my work, you can - </br>
 
