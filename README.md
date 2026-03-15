@@ -2,7 +2,9 @@
 
 ![AppIcon128](Images/AppIcon128.png) This is the **starter project** for the video on creating an indexed scroll view in Swift
 
-
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=sUZ6agowSew
+" target="_blank"><img src="http://img.youtube.com/vi/sUZ6agowSew/0.jpg" 
+alt="Indexed ScrollView" width="480" height="360" border="1" /></a>
 
 If you want to support my work, you can - </br>
 
